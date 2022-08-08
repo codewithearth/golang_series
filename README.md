@@ -1,2 +1,2 @@
 # golang_series
-This repository contains Golang basic to advance and projects.
+This repository contains Golang, From basic to advance and projects
